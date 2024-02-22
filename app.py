@@ -7,3 +7,4 @@ st.header("En este espacio comienzo a desarrollar mis aplicaciones para intertfa
 st.write("Facilmente puedo realizar backend y frontend")
 image = Image.open('mago2.jpg')
 
+st.image(image, caption = 'mago')
