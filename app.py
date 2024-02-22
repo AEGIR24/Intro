@@ -12,7 +12,7 @@ st.image(image, caption = 'mago')
 texto = st.text_input('Escribe algo', 'Este es mi texto')
 st.write('El texto escrito es:', texto)
 
-st.subheader("AHora usamos 2 columnas")
+st.subheader("Ahora usamos 2 columnas")
 
 col1, col2 = st.columns(2)
 
