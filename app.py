@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title("Draikon es furro")
 
-st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales:")
+st.header("Locbo y Edward son otakos")
 st.write("Facilmente puedo realizar backend y frontend.")
 image = Image.open('mago2.jpg')
 
