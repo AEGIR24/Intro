@@ -1,10 +1,10 @@
 import streamlit as st
 from PIL import Image
 
-st.title("Draikon es furro")
+st.title("MI PORTAFOLIO")
 
-st.header("Locbo y Edward son otakos")
-st.write("Facilmente puedo realizar backend y frontend.")
+st.header("Camilo Rios Arrieta (AEGIR)")
+st.write("Despues lo escribo")
 image = Image.open('mago2.jpg')
 
 st.image(image, caption = 'mago')
